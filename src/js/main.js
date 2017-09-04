@@ -1,5 +1,4 @@
 require('../css/main.css');
-require('../css/vector-map.css');
 
 require('jquery');
 const map = require('./google_map.js').init();
