@@ -1,5 +1,5 @@
 # Display GEO stats
-stats-geo heatmap example.
+StatsG heatmap example.
 
 # Run dev
 `npm install`
